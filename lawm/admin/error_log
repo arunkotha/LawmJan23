@@ -1,0 +1,70 @@
+[14-Jul-2015 10:12:18 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/vcsekhar02/public_html/admin/system/application/controllers/welcome.php on line 244
+[14-Jul-2015 10:12:41 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/vcsekhar02/public_html/admin/system/application/controllers/welcome.php on line 244
+[14-Jul-2015 10:13:38 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/vcsekhar02/public_html/admin/system/application/controllers/welcome.php on line 244
+[26-Jul-2015 13:38:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 724
+[26-Jul-2015 13:38:15 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 724
+[26-Jul-2015 19:11:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vcsekhar02/public_html/seller/system/application/views/create_product.php on line 264
+[26-Jul-2015 19:13:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vcsekhar02/public_html/seller/system/application/views/create_product.php on line 264
+[02-Sep-2015 06:40:08 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[02-Sep-2015 06:40:15 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[02-Sep-2015 06:40:17 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:58 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:58 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:58 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:46:59 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:47:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:47:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:47:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:47:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[04-Sep-2015 06:47:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 816
+[08-Sep-2015 10:47:28 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:47:35 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:47:39 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:48:15 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:48:17 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:48:19 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:49:23 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:54:36 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:54:40 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[08-Sep-2015 10:54:41 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[10-Sep-2015 08:58:22 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[10-Sep-2015 09:02:31 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[22-Sep-2015 06:36:36 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[22-Sep-2015 06:36:43 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[22-Sep-2015 06:36:47 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[22-Sep-2015 06:39:08 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[22-Sep-2015 11:12:36 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[22-Sep-2015 11:12:53 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[22-Sep-2015 11:12:58 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[23-Sep-2015 09:52:28 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[23-Sep-2015 09:52:57 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[23-Sep-2015 09:53:00 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 970
+[23-Sep-2015 10:40:29 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[29-Sep-2015 16:07:40 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[29-Sep-2015 16:07:44 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[29-Sep-2015 16:07:47 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[29-Sep-2015 16:16:53 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[07-Oct-2015 07:08:58 UTC] PHP Fatal error:  Method name must be a string in /home/vcsekhar02/public_html/seller/system/application/controllers/welcome.php on line 828
+[30-Jul-2016 03:54:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lawmsac/public_html/admin/system/libraries/Datatables.php on line 1956
+[13-Aug-2016 06:15:12 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/lawmsac/public_html/admin/system/application/views/left_menu.php on line 9
+[13-Aug-2016 06:15:18 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/lawmsac/public_html/admin/system/application/views/left_menu.php on line 9
+[13-Aug-2016 06:15:30 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/lawmsac/public_html/admin/system/application/views/left_menu.php on line 9
+[17-Sep-2016 06:39:28 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 214
+[17-Sep-2016 06:40:21 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 214
+[18-Sep-2016 18:31:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/lawmsac/public_html/admin/system/application/models/mwelcome.php on line 425
+[24-Sep-2016 19:14:06 UTC] PHP Warning:  require_once(classes/PayfortIntegration.php): failed to open stream: No such file or directory in /home/lawmsac/public_html/admin/sample.php on line 13
+[24-Sep-2016 19:14:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'classes/PayfortIntegration.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawmsac/public_html/admin/sample.php on line 13
+[28-Sep-2016 04:16:46 UTC] PHP Fatal error:  Call to undefined method MWelcome::() in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 326
+[28-Sep-2016 04:23:44 UTC] PHP Fatal error:  Method name must be a string in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 326
+[28-Sep-2016 04:23:47 UTC] PHP Fatal error:  Method name must be a string in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 326
+[06-Oct-2016 10:31:02 UTC] PHP Fatal error:  Method name must be a string in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 328
+[06-Oct-2016 10:31:04 UTC] PHP Fatal error:  Method name must be a string in /home/lawmsac/public_html/admin/system/application/controllers/welcome.php on line 328

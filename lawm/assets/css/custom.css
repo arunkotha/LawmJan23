@@ -1,0 +1,188 @@
+/* Add here all your css styles (customizations) */
+
+/*
+.error{
+    border: 1px solid red !important;
+}
+*/
+
+.err{
+    color: red;
+    font-size: 12px;
+}
+.view-module .right{
+    float: right;
+}
+.view-module .left{
+    float: left;
+}
+
+#dynamic_content{
+    width: 1140px;
+    margin: 0 auto;
+    /*padding-top: 10px;*/
+}
+.rtl{
+    direction: rtl;
+}
+.padding-t-b-1{
+    padding-top: 1px;
+    padding-bottom:1px;
+}
+
+a.logo>img
+{
+
+padding:7px;
+}
+
+.sky-form input, .sky-form select
+{
+    
+    height: 39px;
+    font-size: 14px;
+    color: #555;
+    border: 1px solid #ccc;
+
+}
+#attach-btn
+{
+    margin-top: 14px;
+}
+.termsconditions
+{
+    
+    height:20px !important;
+    display:block;
+    position:relative;
+    top:50%;
+    padding-left:45px;
+    
+}
+.termsconditions span
+{
+    
+    height:20px !important;
+    vertical-align:middle !important;
+    
+}
+.guestConsult 
+{
+    
+    padding-left:40px !important;
+    font-weight : bold !important;
+}
+
+.guestConsult input
+{
+    font-size: 15px;
+    color: #fff;
+    font-weight : bold !important;
+}
+
+.welcometext
+{
+    background-color: rgba(255, 255, 255, .7) !important;
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:black;
+    
+}
+.welcometext p
+{
+    font-size:18px;
+}
+
+.welcometext h2
+{
+    font-weight:bold;
+}
+
+.goog-tooltip {
+    display: none !important;
+}
+.goog-tooltip:hover {
+    display: none !important;
+}
+.goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important; 
+    box-shadow: none !important;
+}
+
+.btn-u
+{
+    border-radius: 4px !important;
+    color:white !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+.btn-primary, .btn-success
+{
+    border-radius: 6px !important;
+    color:white !important;
+}
+
+.btn-primary:hover, .btn-success:hover
+{
+    background-color : #b61332 !important;
+    color:white !important;
+}
+.btn-u-xs
+{
+    margin-bottom:5px !important;
+}
+
+#attach-btn
+{
+    border-radius: 4px !important;
+    border:solid #919191 1px !important;
+}
+
+.circleimg 
+{
+position: relative !important;
+border-radius: 50%;
+height: 85px !important;
+background: white;
+}
+span.basic1
+{
+    margin:auto;
+}
+ .newresults 
+{
+    vertical-align: top !important;
+    display: inline-block !important;
+    text-align: center !important;
+    padding-bottom:20px !important;
+    margin: auto !important;
+}
+
+.s-results .newresults img
+{
+    display: block !important;
+    float: none !important;
+    margin: auto !important;
+}
+
+.newresults h3
+{
+    display: block !important;
+    float: middle !important;
+}
+.newresults span
+{
+    display: block !important;
+    float: middle !important;
+    text-align: center !important;
+}
+
+div#dynamic_content p
+{
+    font-size: 15px !important;
+
+}
+ul.navbar-nav
+{
+    padding-left:40px;
+}

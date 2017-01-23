@@ -1,0 +1,14 @@
+/* Add here all your css styles (customizations) */
+.error{
+    border: 1px solid red !important;
+}
+.err{
+    color: red;
+    font-size: 12px;
+}
+.view-module .right{
+    float: right;
+}
+.view-module .left{
+    float: left;
+}

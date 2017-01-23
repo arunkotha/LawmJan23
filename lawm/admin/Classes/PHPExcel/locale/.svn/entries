@@ -1,0 +1,76 @@
+10
+
+dir
+124
+svn://192.168.0.4/svn/rdboard/Classes/PHPExcel/locale
+svn://192.168.0.4/svn/rdboard
+
+
+
+2013-02-20T12:34:30.389516Z
+124
+mohanbabu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7007783d-0ae4-4c58-b0e2-b77c24c53c6a
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+en
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+hu
+dir
+
+it
+dir
+
+nl
+dir
+
+no
+dir
+
+pl
+dir
+
+pt
+dir
+
+ru
+dir
+
+sv
+dir
+
+tr
+dir
+

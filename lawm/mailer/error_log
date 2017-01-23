@@ -1,0 +1,11 @@
+[05-Aug-2016 16:45:37 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:465 (Connection timed out) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:50:57 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:50:57 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://ssl://smtp.gmail.com:465 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:51:03 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:51:03 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://ssl://smtp.gmail.com:465 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:51:42 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:51:42 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://ssl://smtp.gmail.com:465 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:52:02 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:52:02 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://ssl://smtp.gmail.com:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:53:15 UTC] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lawmsac/public_html/mailer/class.smtp.php on line 105
+[05-Aug-2016 16:53:15 UTC] PHP Warning:  fsockopen(): unable to connect to ssl://ssl://smtp.gmail.com:465 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/lawmsac/public_html/mailer/class.smtp.php on line 105

@@ -1,0 +1,49 @@
+[27-Jul-2016 15:54:52 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 15:54:56 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 15:59:59 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 16:00:02 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 16:00:52 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 16:01:16 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 16:01:19 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 2
+[27-Jul-2016 16:02:21 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 3
+[27-Jul-2016 16:02:25 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/lawmsac/public_html/index.php on line 3
+[09-Aug-2016 17:41:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lawmsac/public_html/application/controllers/Welcome.php on line 425
+[04-Sep-2016 05:04:14 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/lawmsac/public_html/testing.php on line 1
+[04-Sep-2016 05:04:22 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/lawmsac/public_html/testing.php on line 1
+[04-Sep-2016 05:04:42 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/lawmsac/public_html/testing.php on line 1
+[04-Sep-2016 05:05:23 UTC] PHP Parse error:  syntax error, unexpected ''123'' (T_CONSTANT_ENCAPSED_STRING) in /home/lawmsac/public_html/testing.php on line 1
+[05-Sep-2016 06:10:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lawmsac/public_html/application/views/forum.php on line 170
+[24-Sep-2016 17:39:09 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/lawmsac/public_html/payfort_request.php on line 1
+[24-Sep-2016 17:39:57 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/lawmsac/public_html/test1.php on line 1
+[24-Sep-2016 17:53:20 UTC] PHP Warning:  unserialize() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[24-Sep-2016 17:53:28 UTC] PHP Warning:  unserialize() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[24-Sep-2016 17:56:00 UTC] PHP Warning:  unserialize() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[24-Sep-2016 17:56:37 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[24-Sep-2016 17:56:58 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[24-Sep-2016 17:57:12 UTC] PHP Warning:  unserialize() expects parameter 1 to be string, array given in /home/lawmsac/public_html/payment_response.php on line 4
+[25-Sep-2016 12:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/lawmsac/public_html/application/controllers/Welcome.php on line 805
+[01-Oct-2016 03:45:30 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 03:45:30 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 04:25:38 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 04:25:38 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 04:29:06 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 04:29:06 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 04:30:54 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 04:30:54 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 04:34:28 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 04:34:28 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 05:13:29 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 05:13:29 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[01-Oct-2016 05:18:30 UTC] PHP Notice:  Undefined index: service_command in /home/lawmsac/public_html/sdk_token.php on line 4
+[01-Oct-2016 05:18:30 UTC] PHP Notice:  Undefined index: device_id in /home/lawmsac/public_html/sdk_token.php on line 5
+[02-Oct-2016 14:12:26 UTC] PHP Fatal error:  Call to undefined method Mwelcome::activeAccount() in /home/lawmsac/public_html/application/controllers/Welcome.php on line 1422
+[12-Oct-2016 17:13:09 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/lawmsac/public_html/application/controllers/Welcome.php on line 585
+[12-Oct-2016 17:13:15 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/lawmsac/public_html/application/controllers/Welcome.php on line 585
+[24-Nov-2016 02:27:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/lawmsac/public_html/application/controllers/Welcome.php on line 352
+[25-Nov-2016 02:20:06 UTC] PHP Fatal error:  Call to a member function addServiceTransaction() on null in /home/lawmsac/public_html/application/controllers/Welcome.php on line 1590
+[25-Nov-2016 02:20:24 UTC] PHP Fatal error:  Call to undefined method Mwelcome::UpdatePaymentStatus() in /home/lawmsac/public_html/application/controllers/Welcome.php on line 1594
+[01-Dec-2016 14:47:20 UTC] PHP Fatal error:  Call to undefined method Mwelcome::getUserTransactions() in /home/lawmsac/public_html/application/views/profile.php on line 441
+[01-Dec-2016 14:47:31 UTC] PHP Fatal error:  Call to undefined method Mwelcome::getUserTransactions() in /home/lawmsac/public_html/application/views/profile.php on line 441
+[01-Dec-2016 14:48:43 UTC] PHP Fatal error:  Call to undefined method Mwelcome::getUserTransactions() in /home/lawmsac/public_html/application/views/profile.php on line 441
+[01-Dec-2016 14:49:06 UTC] PHP Fatal error:  Call to undefined method Mwelcome::getUserTransactions() in /home/lawmsac/public_html/application/views/profile.php on line 441
+[01-Dec-2016 14:49:08 UTC] PHP Fatal error:  Call to undefined method Mwelcome::getUserTransactions() in /home/lawmsac/public_html/application/views/profile.php on line 441
